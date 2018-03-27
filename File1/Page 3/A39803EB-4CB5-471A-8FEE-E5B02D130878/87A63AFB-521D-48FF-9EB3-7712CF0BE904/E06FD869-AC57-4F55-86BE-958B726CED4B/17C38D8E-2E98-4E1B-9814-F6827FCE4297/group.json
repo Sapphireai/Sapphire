@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "17C38D8E-2E98-4E1B-9814-F6827FCE4297",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "99FF7289-CA65-4987-81CD-8DB1C3D85C74",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C83EDC97-8243-415F-9C6D-8F8FA9511E99",
+    "height": 83,
+    "width": 446,
+    "x": 0,
+    "y": 469
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C08F787-CE6C-4EE6-A540-8C3BA676C9BE"
+    },
+    {
+      "class": "group",
+      "id": "E5EE4D8C-903F-4538-8339-C965CA7BE087"
+    },
+    {
+      "class": "text",
+      "id": "B7844053-7C58-4573-9FEC-C54AE454077E"
+    }
+  ],
+  "name": "消息3",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "269AA8D7-CD7C-45F4-83E3-920023D07570",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
