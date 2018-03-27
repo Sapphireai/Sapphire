@@ -40,15 +40,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "95CA035A-1DDB-49D3-B4F1-B924662ECF89"
+      "id": "2E460E74-D761-4353-B3CD-B1FFA423F209"
     },
     {
       "class": "shapeGroup",
-      "id": "091E01EF-C530-4594-AF30-184864E6494D"
+      "id": "24C5F68D-8E26-4128-B1B8-549FE9690D19"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "815E1171-F681-471A-B9EE-1F645826F151"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AAC6EE1F-F59C-480D-AE7A-929E4A3F5DB1"
     }
   ],
   "name": "o",
